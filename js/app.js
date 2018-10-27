@@ -1,10 +1,9 @@
 function isWindy(speed) {
     if (speed > 5) {
-        alert('It is windy');
+        return true;
     } else {
-        alert('It is not windy');
+        return false;
     }
 }
 
-isWindy(10);
-isWindy(4);
+isWindy('>=5');
