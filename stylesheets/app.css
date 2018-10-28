@@ -3,13 +3,17 @@ body {
 }
 .city {
     color: ffe867;
+    font-size: 20px;
 }
 .temp {
     color: f2f7ff;
+    font-size: 15px;
 }
 .cloud {
     color: f2f7ff;
+    font-size: 15px;
 }
 .wind {
     color: f2f7ff;
+    font-size: 15px;
 }
